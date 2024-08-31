@@ -1,5 +1,6 @@
 # Hi👋 ! I'm lepcquiparle  
 
+I'm french,  
 I ❤love  
 + 🖥programming  
 + 🤖robotics  
