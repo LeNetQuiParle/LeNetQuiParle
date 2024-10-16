@@ -4,7 +4,8 @@ I'm french,
 I ❤love  
 + 🖥programming  
 + 🤖robotics  
-+ ➗maths  
++ ➗maths
++ ⚖️physics  
 
 ## Languages & technologies that I know  
 I know front end (html, css, js) and python. I also use Bootstrap for the responsive design, codepen for front-end tests and github for my websites.
