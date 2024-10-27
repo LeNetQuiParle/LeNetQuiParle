@@ -1,4 +1,4 @@
-# Hi👋 ! I'm lepcquiparle  
+# Hi👋 ! I'm lepcquiparle, and I'm ![Status](https://img.shields.io/badge/Status-Online-brightgreen)  
 
 I'm french,  
 I ❤love  
