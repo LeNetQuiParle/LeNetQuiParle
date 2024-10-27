@@ -5,7 +5,7 @@ I ❤love
 + 🖥programming  
 + 🤖robotics  
 + ➗maths
-+ ⚖️physics  
++ ⚖️physics (I don't found good emoji for physics. Tell me if you found one)  
 
 ## Languages & technologies that I know  
 I know front end (html, css, js) and python. I also use Bootstrap for the responsive design, codepen for front-end tests and github for my websites.
