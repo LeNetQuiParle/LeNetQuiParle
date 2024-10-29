@@ -7,9 +7,10 @@ I ❤love
 + ➗maths  
 + ⚖️physics (I don't found good emoji for physics. Tell me if you found one)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lenetquiparle&hide=issues&show_icons=true)
 
 ## Skills and Stats  
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lenetquiparle&hide=issues&show_icons=true)
 
 <table>
   <tr>
