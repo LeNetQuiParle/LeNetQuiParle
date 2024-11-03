@@ -7,10 +7,10 @@ I ❤love
 + ➗maths  
 + ⚖️physics (I don't found good emoji for physics. Tell me if you found one)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LeNetQuiParle&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## Skills and Stats  
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lenetquiparle&hide=issues&show_icons=true)
+## 📊Skills and Stats  
 
 <table>
   <tr>
