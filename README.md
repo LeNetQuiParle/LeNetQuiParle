@@ -28,7 +28,7 @@ I ❤love
       <h4>Programming Languages</h4>
       <img src="https://skillicons.dev/icons?i=html,css,js,react,md,py" alt="programming languages">
       <h4>Technologies</h4>
-      <img src="https://skillicons.dev/icons?i=bootstrap,codepen,sketchup,github,vscode,windows" alt="technologies">
+      <img src="https://skillicons.dev/icons?i=bootstrap,codepen,replit,sketchup,github,vscode,windows" alt="technologies">
     </td>
   </tr>
 </table>
