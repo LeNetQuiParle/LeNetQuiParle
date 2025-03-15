@@ -6,7 +6,8 @@ I ❤love
 + 🖥programming  
 + 🤖robotics  
 + ➗maths  
-+ ⚖️physics (I don't found good emoji for physics. Tell me if you found one)
++ ⚖️physics
++ ♔chess
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LeNetQuiParle&theme=radical&no-frame=false&no-bg=true&margin-w=4)
