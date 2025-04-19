@@ -28,7 +28,6 @@ I ❤love
       </a>
     </td>
     <td>
-      <h4>Skills</h4>
       <img src="https://skillicons.dev/icons?i=html,css,js,react,md,py,bootstrap,codepen,replit,sketchup,github,vscode,windows" alt="programming languages">
     </td>
   </tr>
