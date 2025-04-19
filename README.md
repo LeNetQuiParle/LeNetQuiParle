@@ -1,6 +1,8 @@
 # Hi👋 ! I'm lepcquiparle, and I'm ![Status](https://img.shields.io/badge/Status-Online-brightgreen)  
 [![](https://visitcount.itsvg.in/api?id=LeNetQuiParle&icon=8&color=3)](https://visitcount.itsvg.in)
 
+![Visitor Count](https://profile-counter.glitch.me/LeNetQuiParle/count.svg)
+
 I'm french-greek,  
 I ❤love  
 + 🖥programming  
