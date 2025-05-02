@@ -1,6 +1,8 @@
 # Hi👋 ! I'm lepcquiparle, and I'm ![Status](https://img.shields.io/badge/Status-Online-brightgreen)  
 [![](https://visitcount.itsvg.in/api?id=LeNetQuiParle&icon=8&color=3)](https://visitcount.itsvg.in)
 
+![](https://img.shields.io/badge/🎉🎉100_Followers_!-Thank_You-brightgreen?style=for-the-badge)
+
 ![Visitor Count](https://profile-counter.glitch.me/LeNetQuiParle/count.svg)
 
 I'm french-greek,  
@@ -29,6 +31,8 @@ I ❤love
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=html,css,js,react,md,py,bootstrap,codepen,replit,sketchup,github,vscode,windows" alt="programming languages">
+      <h3>Learning</h3>
+      <img src="https://skillicons.dev/icons?i=godot,blender,ts" alt="learning">
     </td>
   </tr>
 </table>
