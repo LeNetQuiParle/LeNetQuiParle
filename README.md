@@ -1,5 +1,4 @@
 # Hi👋 ! I'm lepcquiparle, and I'm ![Status](https://img.shields.io/badge/Status-Online-brightgreen)  
-[![](https://visitcount.itsvg.in/api?id=LeNetQuiParle&icon=8&color=3)](https://visitcount.itsvg.in)
 
 ![](https://img.shields.io/badge/🎉🎉100_Followers_!-Thank_You-brightgreen?style=for-the-badge)
 
@@ -36,5 +35,3 @@ I ❤love
     </td>
   </tr>
 </table>
-  
-I'm 11, and my birthday is on 1st August.
